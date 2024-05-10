@@ -9,7 +9,7 @@
     <br />
     <a href="https://github.com/NotAGanesh/OptiNa-Team/blob/main/members.md">Members</a>
     ·
-    <a href="https://github.com/NotAGanesh/OptiNa-Reborn/issues">Report Bugs</a>
+    <a href="https://discord.com/invite/jQkhpYHDBb">Community help</a>
   </p>
 
 
