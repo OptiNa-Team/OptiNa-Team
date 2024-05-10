@@ -26,8 +26,12 @@
 | [OptiNa Legacy](https://modrinth.com/modpack/optina-fabric) | [Axl0's Trailer Experience](https://modrinth.com/modpack/trailer-exp) |
 
 
-
-
+# Members
+| No. | Name       | Jobs                      |
+|-----|------------|---------------------------|
+| 1.  | NotAGanesh | Owner/Community moderator |
+| 2.  | AxI0       | Co-Owner/Modpack Tester   |
+| 3.  | Dogsfox    | Builder + Temporary Owner of The Crew                 |
 
 
 
