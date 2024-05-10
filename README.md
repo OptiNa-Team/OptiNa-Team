@@ -17,7 +17,7 @@
 <br>
 </div>
 
-# Our expertise
+## Our expertise
 
 | ![OptiNa Reborn](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/optina_reborn.png?raw=true)              | ![CraftyCrew](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/craftycrew.png?raw=true)                          |
 |---------------|---------------------------|
@@ -26,7 +26,7 @@
 | [OptiNa Legacy](https://modrinth.com/modpack/optina-fabric) | [Axl0's Trailer Experience](https://modrinth.com/modpack/trailer-exp) |
 
 
-# Members
+## Members
 | No. | Name       | Jobs                      |
 |-----|------------|---------------------------|
 | 1.  | NotAGanesh | Owner/Community moderator |
