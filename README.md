@@ -20,6 +20,9 @@
 <br>
 </div>
 
+# Our expertise
+- [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn) | [CraftyCew](https://modrinth.com/mod/craftycrew) 
+- [OptiNa Legacy](https://modrinth.com/modpack/optina-fabric) | [Axl0's Trailer Experience](https://modrinth.com/modpack/trailer-exp)
 
 
 
