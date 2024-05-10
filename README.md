@@ -1,4 +1,4 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OptiNa%20Team&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=OptiNa%20Team&textBg=false&section=header&animation=twinkling&desc=Modrinth%20Organization&descAlignY=64"></center>
 
 
 <br>
