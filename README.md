@@ -21,7 +21,7 @@
 
 | ![OptiNa Reborn](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/optina_reborn.png?raw=true)              | ![CraftyCrew](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/craftycrew.png?raw=true)                          |
 |---------------|---------------------------|
-| [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn) | [CraftyCew](https://modrinth.com/mod/craftycrew)                 |
+| [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn) | [CraftyCrew](https://modrinth.com/mod/craftycrew)                 |
 | ![OptiNa Legacy](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/optina_legacy.png?raw=true)              | ![Axl0's Trailer Experience](https://github.com/NotAGanesh/OptiNa-Team/blob/main/project-covers/axi0's_trailer_exp.png?raw=true)                          |
 | [OptiNa Legacy](https://modrinth.com/modpack/optina-fabric) | [Axl0's Trailer Experience](https://modrinth.com/modpack/trailer-exp) |
 
