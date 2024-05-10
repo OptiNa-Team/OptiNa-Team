@@ -21,6 +21,11 @@
 - [OptiNa Reborn](https://modrinth.com/modpack/optina-reborn) | [CraftyCew](https://modrinth.com/mod/craftycrew) 
 - [OptiNa Legacy](https://modrinth.com/modpack/optina-fabric) | [Axl0's Trailer Experience](https://modrinth.com/modpack/trailer-exp)
 
+| ![OptiNa Reborn](https://cdn.modrinth.com/data/sr0NwKN6/images/305da2dcd50164c9bb08f9e854805dc760113248.png)              | ![CraftyCrew](https://cdn.modrinth.com/data/VnFLK6YI/images/c456d6e06689b333e0b9fb4aeaf31519114a554b.png)                          |
+|---------------|---------------------------|
+| OptiNa Reborn | CraftyCrew                |
+| ![OptiNa Legacy](https://cdn.modrinth.com/data/uQZwZZvs/images/72b73c8a8d09041ab04a4622fb993944cef7e3d4.png)              | ![Axl0's Trailer Experience](https://cdn.modrinth.com/data/MPwTpoMC/images/0019a99791c02865665e91d05b368c2048b31995.png)                          |
+| OptiNa Legacy | Axl0's Trailer Experience |
 
 
 
