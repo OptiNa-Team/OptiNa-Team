@@ -33,7 +33,7 @@
 |-----|------------|---------------------------|
 | 1.  | NotAGanesh | Owner/Community moderator |
 | 2.  | AxI0       | Co-Owner/Modpack Tester   |
-| 3.  | Dogsfox    | Builder + Temporary Owner of The Crew                 |
+| 3.  | DogsFox    | Builder + Temporary Owner of The Crew                 |
 
 
 
